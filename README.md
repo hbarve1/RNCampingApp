@@ -9,4 +9,6 @@ or
 yarn start
 ```
 
+## Some Snaps
+<img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>
 
